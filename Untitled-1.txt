@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+// Function to find GCD of two numbers using recursion (Euclid's Algorithm)
+int gcd(int a, int b) {
+    if (b == 0) {
+        return a;  // Base case: when b is 0, GCD is a
+    }
+    return gcd(b, a % b);  // Recursive case: GCD of b and a % b
+}
+
+// Function to find GCD of multiple numbers
+int findGCDOfArray(int arr[], int n) {
+    int result = arr[0];  // Start with the first element as the initial GCD
+
+    for (int i = 1; i < n; i++) {
+        result = gcd(result, arr[i]);  // Update GCD with each number in the array
+    }
+
+    return result;
+}
+
+int main() {
+    int n;
+
+    // Taking input from the user for the number of elements
+    printf("Enter the number of elements: ");
+    scanf("%d", &n);
+
+    int arr[n];
+
+    // Taking input for the elements
+    printf("Enter the elements: \n");
+    for (int i = 0; i < n; i++) {
+        scanf("%d", &arr[i]);
+    }
+
+    // Finding and printing the GCD of the array
+    int result = findGCDOfArray(arr, n);
+    printf("GCD of the entered numbers is: %d\n", result);
+
+    return 0;
+}

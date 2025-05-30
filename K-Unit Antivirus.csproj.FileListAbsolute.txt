@@ -1,0 +1,15 @@
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\Ambiance.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\Glow.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\MetroFramework.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\MiniTimer.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\PlayUI.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\RecuperareII.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\bin\Debug\Teen.dll
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\obj\Debug\K-Unit Antivirus.csproj.GenerateResource.Cache
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
+c:\users\gopolang\documents\visual studio 2013\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Form1.resources
